@@ -1,0 +1,17 @@
+{
+    "name": "auto-checkin",
+    "version": "1.0.0",
+    "description": "auto checkin some web",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "author": "qzsiniong@163.com",
+    "license": "ISC",
+    "dependencies": {
+        "md5": "^2.2.1",
+        "node-schedule": "^1.1.1",
+        "superagent": "^2.3.0"
+    }
+}
